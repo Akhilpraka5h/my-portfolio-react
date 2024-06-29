@@ -50,22 +50,22 @@ const Navbar = () => {
           onClick={closeMenu}
         />
 
-        <li>
+        <li onClick={closeMenu}>
           <AnchorLink className="anchor_link" href="#home">
             Home
           </AnchorLink>
         </li>
-        <li>
+        <li onClick={closeMenu}>
           <AnchorLink className="anchor_link" href="#about">
             About
           </AnchorLink>
         </li>
-        <li>
+        <li onClick={closeMenu}>
           <AnchorLink className="anchor_link" href="#projects">
             Projects
           </AnchorLink>
         </li>
-        <li>
+        <li onClick={closeMenu}>
           <AnchorLink className="anchor_link" href="#contact">
             Contact
           </AnchorLink>
