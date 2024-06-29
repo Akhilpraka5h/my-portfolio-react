@@ -1,0 +1,15 @@
+
+.copyright {
+  width: 100%;
+  text-align: center;
+  padding: 20px 0;
+  background: #262626;
+  font-weight: 300;
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .copyright {
+    font-size: 14px;
+  }
+}
