@@ -118,8 +118,8 @@ const Contact = () => {
               >
                 <i className="fa-brands fa-linkedin" />
               </a>
-              <a href="#">
-                <i className="fa-brands fa-twitter" target="_blank" />
+              <a href="https://github.com/Akhilpraka5h" target="_blank">
+                <i className="fa-brands fa-github" />
               </a>
               <a href="https://wa.me/+917012896687">
                 <i className="fa-brands fa-whatsapp"></i>
