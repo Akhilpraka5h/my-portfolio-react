@@ -92,3 +92,11 @@
     border-radius: 40px;
   }
 }
+@media (max-width: 456px) {
+  .heroConnect {
+    font-size: 15px;
+  }
+  .heroResume {
+    font-size: 15px;
+  }
+}

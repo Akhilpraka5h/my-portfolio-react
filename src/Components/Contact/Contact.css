@@ -194,3 +194,8 @@
     display: block;
   }
 }
+@media (max-width: 456px) {
+  .contact {
+    margin: 0 5%;
+  }
+}

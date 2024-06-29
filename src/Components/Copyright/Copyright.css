@@ -1,4 +1,3 @@
-
 .copyright {
   width: 100%;
   text-align: center;
@@ -11,5 +10,10 @@
 @media (max-width: 768px) {
   .copyright {
     font-size: 14px;
+  }
+}
+@media (max-width: 341px) {
+  .copyright {
+    width: 100%;
   }
 }

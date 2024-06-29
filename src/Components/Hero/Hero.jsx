@@ -13,12 +13,11 @@ const Hero = () => {
       <div className="heroAction">
         <div className="heroConnect">
           <AnchorLink href="#contact" className="anchorLink">
-            Connect with me.
+            Connect with me
           </AnchorLink>
         </div>
-
         <div className="heroResume">
-          <a href={resume}>My Resume</a>
+          <a href={resume}>Resume</a>
         </div>
       </div>
     </div>
