@@ -87,7 +87,7 @@ const About = () => {
                   <hr style={{ width: "25%" }} />
                 </div>
                 <div className="aboutSkill">
-                  <p>Mongo BD</p>
+                  <p>MongoDB</p>
                   <hr style={{ width: "25%" }} />
                 </div>
                 {/* <div className="aboutSkill">
