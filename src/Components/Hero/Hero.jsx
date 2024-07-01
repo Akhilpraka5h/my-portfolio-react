@@ -1,6 +1,6 @@
 import "./Hero.css";
 import profileImg from "../../assets/Profile_Hero.png";
-import resume from "../../assets/Resume_Akhil.pdf";
+import resume from "../../assets/Akhil resume_portfolio.pdf";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 const Hero = () => {
   return (

@@ -51,8 +51,7 @@ const Projects = () => {
             <div className="layer">
               <h3>Fitness Web</h3>
               <p>
-                Fitness Web: Designed for optimal viewing on all devices,
-                showcasing gym services, class schedules, trainer profiles, and
+                Showcase gym services, class schedules, trainer profiles, and
                 membership options. Features a sleek, modern design with a
                 user-friendly interface for easy navigation. Allows users to
                 book classes, view workout plans, and access fitness resources
