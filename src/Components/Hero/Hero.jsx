@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import "./Hero.css";
 import profileImg from "../../assets/Profile_Hero.png";
-import resume from "../../assets/Akhil resume_portfolio.pdf";
+import resume from "../../assets/AKHIL KP Resume.pdf";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 const Hero = () => {
   const linkRef = useRef(null);
